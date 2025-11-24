@@ -6,7 +6,7 @@ function Footer() {
   return (
     <>
       <footer>
-        <small>&copy; Copyright {getYear}</small>
+        <small className="copyright">&copy; Copyright {getYear}</small>
       </footer>
     </>
   );

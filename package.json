@@ -32,8 +32,13 @@
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "^3.1.1",
+    "react-scripts": "^5.0.1",
     "react-star-rating-input": "^8.0.1"
   },
-  "homepage": "https://tv-guide-mallory64.netlify.com"
+  "homepage": "https://tv-guide-mallory64.netlify.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mallorysmith64/tv-guide.git",
+  "author": "mallorysmith64 <mallorysmith64@gmail.com>",
+  "license": "MIT"
 }
